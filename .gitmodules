@@ -1,0 +1,3 @@
+[submodule "company"]
+	path = modules/company
+	url = https://github.com/solusiotomasi/company.git
