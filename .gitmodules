@@ -1,6 +1,8 @@
 [submodule "company"]
 	path = modules/company
 	url = https://github.com/solusiotomasi/company.git
-[submodule "modules/trytond-bench"]
-	path = modules/trytond-bench
-	url = https://github.com/coopengo/trytond-bench
+	branch = 5.4
+[submodule "modules/product"]
+	path = modules/product
+	url = https://github.com/tryton/product.git
+	branch = 5.4
